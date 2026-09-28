@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*.so
+.ipynb_checkpoints/
+output/*.json
+output/uploads/
+!output/.gitkeep
+.venv/
+venv/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

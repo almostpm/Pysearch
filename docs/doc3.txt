@@ -1,0 +1,1 @@
+Hash tables store key-value pairs and provide fast lookups. In Python, dictionaries are hash tables. They allow you to retrieve a value in constant time on average.

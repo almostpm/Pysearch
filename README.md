@@ -8,6 +8,7 @@ I read `.txt` files from a folder, build an **inverted index**, and answer multi
 
 **Status:** 8 build phases (0-7, see Phase Reference below) complete. 65 tests passing.
 **Repo:** https://github.com/almostpm/Pysearch
+**Direct link:** [https://github.com/almostpm/Pysearch](https://pysearch-9jymfbaydqnfenisuahvqe.streamlit.app/)
 
 ---
 

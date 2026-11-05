@@ -349,6 +349,11 @@ I follow ideas from **Grokking Algorithms** by Aditya Bhargava. Chapter numbers 
 | 7 | Breadth-first search | Ch 6, Breadth-First Search |
 
 ---
+final output -
+
+<img width="1887" height="926" alt="image" src="https://github.com/user-attachments/assets/ee6c9973-639c-4c67-b8de-712a94afe42e" />
+
+---
 
 ## License
 
